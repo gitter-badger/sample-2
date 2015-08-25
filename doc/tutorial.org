@@ -1,0 +1,13 @@
+* Sample Workflow
+
+** Creating a new project.
+   The start of every new project involves invoking a leiningen template to
+   generate boilerplate, checking the code into GitHub, and creating units of
+   work for the project.
+
+*** First Commit
+    #+BEGIN_HTML
+    <iframe src="http://showterm.io/http://showterm.io/fce62a9d36a4c6df99440#stop width="600" height="300"></iframe>
+    #+END_HTML
+
+    We are working on a new project. The specs for this project are unknown currently.
