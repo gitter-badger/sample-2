@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/ClaritySSI/sample](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ClaritySSI/sample?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/ClaritySSI/sample](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ClaritySSI/sample?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
